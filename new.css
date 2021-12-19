@@ -1,0 +1,43 @@
+body {
+
+  background-image: url("sya1.jpg");
+} 
+
+p
+{
+
+text-align: center;
+
+color: pink;
+
+font-family: "Century Gothic"
+
+}
+
+ 
+
+ 
+
+h1
+
+{
+
+text-align: center;
+
+color: 00FFFF;
+
+font-family: Agency FB;
+
+}
+
+ 
+
+ 
+
+ 
+
+table, th, td {
+
+ border: 1px solid black;
+
+}
